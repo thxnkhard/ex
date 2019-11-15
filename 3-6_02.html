@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Position Absolute</title>
+    <style>
+      body,
+      html {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        height: 400%;
+        background-color: powderblue;
+      }
+      .abs-box1 {
+        width: 400px;
+        height: 400px;
+        background-color: purple;
+        position: relative;
+        top: 10px;
+        left: 10px;
+      }
+      .abs-box2 {
+        width: 300px;
+        height: 300px;
+        background-color: red;
+        position: relative;
+        top: 20px;
+        left: 20px;
+      }
+      .abs-child {
+        width: 100px;
+        height: 100px;
+        background-color: yellow;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+      }
+      .on_box {
+        width: 200px;
+        height: 200px;
+        background-color: blue;
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="abs-box1">
+      <div class="abs-box2">
+        <div class="abs-child"></div>
+      </div>
+      <div class="on_box"></div>
+    </div>
+  </body>
+</html>

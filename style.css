@@ -1,24 +1,6 @@
-html, body {
-    padding: 0;
-    margin: 0;
-}
-
+html,
 body {
-    height: 400%;
-    background-color: powderblue;
-}
-
-.box1 {
-    background-color: blue;
-    width: 500px;
-    height: 500px;
-    position: relative;
-}
-
-#box2 {
-    background-color: red;
-    width: 200px;
-    height: 200px;
-    position: absolute;
-    right: 0;
+  height: 100%;
+  padding: 0;
+  margin: 0;
 }

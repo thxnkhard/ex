@@ -1,0 +1,186 @@
+[윈도우 단축키]
+
+잠금 : Win + L
+
+탐색기 : Win + E
+
+새창/새탭 열기 : Ctrl + N/T
+
+취소한 작업 재실행 : Ctrl + Y (Ctrl + Z 반대)
+
+화면 최소화/최소화 복원 : Win + M / Win + Shift + M
+
+주소창으로 커서 이동 : F6
+
+돋보기 : Win + '+'
+
+테스크 바 (Task bar) : Win + Tab
+
+가상 데스크톱(Virture Desktop) 열기 : Win + Ctrl + D
+
+현재 가상 데스크톱 닫기 : Win + Ctrl + F4
+
+다른 가상 데스크톱 화면으로 이동 : Win + Ctrl + 좌우방향키
+
+
+[File - Preferences - Keyboard shortcuts]
+Ctrl + K  Ctrl + S
+
+
+[자주 쓰는 단축키]
+
+Multi-cursor and selection 다중 커서 및 다중 선택
+Search and replace 검색 및 재배열
+
+Ctrl + W
+ : Close window/instance
+ 창 닫기
+
+ Alt + ↓/↑
+ : Move line down/up
+ 줄 옮기기 (다중 선택 후 옮기기도 가능)
+
+Shift + Alt + ↓/↑
+ : Copy line down/up
+ 줄 복사하기 (다중 선택 후 복사도 가능)
+
+Shift + Ctrl + K
+ : Delete line
+ 줄 삭제
+
+Ctrl + Enter / Shift + Ctrl + Enter
+ : Insert line below/above
+ 줄 삽입 후 이동(아래/위)
+
+Shift + Ctrl + \
+ : Jump to matching bracket
+ 연결된 괄호로 이동
+ 
+Ctrl + ] / Ctrl + [
+: Indent/outdent line
+ 들여쓰기/내어쓰기
+
+Ctrl + ↑ / Ctrl + ↓
+ : Go to beginning/end of file
+ 해당 파일 스크롤
+
+Ctrl + PgUp / Ctrl + PgDn
+ : 이전/다음 파일 보기
+
+Alt + PgUp / Alt + PgDn
+ : Scroll page up/down
+ 페이지 스크롤 올리기 / 내리기
+
+Alt + Z
+ : Toggle word wrap
+ 자동 줄 바꿈
+
+Ctrl + \
+ : Split editor
+ 에디터 나누기
+ 
+Ctrl + N
+ : New File
+ 새(New) 파일
+
+Ctrl + O
+ : Open File...
+ 오픈(Open) 파일
+
+
+Ctrl + S
+ : Save
+ 저장
+
+Shift + Ctrl + S
+ : Save As...
+ 다른 이름으로 저장
+
+Alt + Ctrl + S
+ : Save All
+ 모두 저장
+
+Ctrl + W
+ : Close
+ 창 닫기
+
+Ctrl + K Ctrl + W
+ : Close All
+ 모두 닫기
+
+Shift + Ctrl + T
+ : Reopen closed editor
+ 에디터 다시 열기
+
+
+
+
+
+
+
++) 폴더 열기
+    Ctrl + K  Ctrl + O 
+   폴더 닫기
+    Ctrl + K  Ctrl + F2
+    
+
+1) 마우스가 가는 곳 마다 커서 만들기
+    Alt + Shift + Mouse Drag
+
+2) 선택된 영역에 커서 만들기
+    Alt + Shift + i 
+
+3) 코드 블록 한방에 코멘트 처리하기
+    Ctrl + /
+
+4) 코드 복사해서 위/아래로 움직이기
+    Alt + Shift + ↑ / ↓
+
+5) 코드 위/아래로 움직이기
+    Alt + ↑ / ↓
+
+6) 클릭하는 곳마다 커서 생성 (다중커서)
+    Alt + Click
+    Ctrl + Alt + ↑ / ↓ (커서 윗 줄/아랫 줄에 생성)
+
++) Undo Last Cursor operation
+    Ctrl + U
+
++) Select Current line
+    Ctrl + L
+
+7) 반복되는 단어 한방에 수정
+    Ctrl + D
+    Ctrl + F2 (현재 선택 항목의 모든 단어 선택)
+    Ctrl + Shift + L (현재 선택 항목의 모든 항목 선택)
+
+8) 파일 맨 위-아래로 한번에 이동하기
+    Ctrl + Home / End
+
+9) 사이드바 숨기기
+    Ctrl + B
+
+10) 커서가 있는 줄의 윗 줄 생성 후 이동
+    Ctrl + Shift + Enter
+
+11) 커서가 있는 줄의 아랫 줄 생성 후 이동
+    ctrl + Enter
+
+12) 콘솔 또는 터미널 열기/닫기
+    Ctrl + J
+
+13) 다중 선택한줄 주석
+    Ctrl + k + c
+
+14) 다중 선택한줄 주석 해제
+    Ctrl + k + u
+
+15) 선택한 줄/블럭 들여쓰기/내어쓰기
+    Tab / Shift + Tab
+
+16) 한 줄 지우기
+    Ctrl + Shift + K
+
+17) 스크롤 이동
+    Ctrl + ↑ / ↓ 
+

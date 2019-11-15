@@ -1,0 +1,460 @@
+[File - Preferences - Keyboard shortcuts]
+Ctrl + K  Ctrl + S
+
+
+
+[General 일반]
+
+Shift + Ctrl + P & F1
+ : Show Command Palette
+ 명령 목록
+
+Ctrl + P
+ : Quick Open, Go to File…
+ 파일 이동
+
+Shift + Ctrl + N
+ : New window/instance
+ 새 창 열기
+
+Ctrl + W
+ : Close window/instance
+ 창 닫기
+
+Ctrl + ,
+ : User Settings
+ 유저 세팅
+
+Ctrl + K  Ctrl + S
+ : Keyboard Shortcuts
+ 키보드 단축키
+
+
+
+
+[Basic editing 기본 편집]
+
+Ctrl + X
+ : Cut line (empty selection)
+ 잘라내기
+
+Ctrl + C
+ : Copy line (empty selection)
+ 복사하기
+
+Alt + ↓/↑
+ : Move line down/up
+ 줄 옮기기 (다중 선택 후 옮기기도 가능)
+
+Shift + Alt + ↓/↑
+ : Copy line down/up
+ 줄 복사하기 (다중 선택 후 복사도 가능)
+
+Shift + Ctrl + K
+ : Delete line
+ 줄 삭제
+
+Ctrl + Enter / Shift + Ctrl + Enter
+ : Insert line below/above
+ 줄 삽입 후 이동(아래/위)
+
+Shift + Ctrl + \
+ : Jump to matching bracket
+ 연결된 괄호로 이동
+
+
+Ctrl + ] / Ctrl + [
+: Indent/outdent line
+ 들여쓰기/내어쓰기
+
+Home / End
+ : Go to beginning/end of line
+ 줄의 처음으로/끝으로
+
+Ctrl + ↑ / Ctrl + ↓
+ : Go to beginning/end of file
+ 해당 파일 스크롤
+
+Ctrl + PgUp / Ctrl + PgDn
+ : 이전/다음 파일 보기
+
+Alt + PgUp / Alt + PgDn
+ : Scroll page up/down
+ 페이지 스크롤 올리기 / 내리기
+
+PgUp / PgDn
+ : 커서를 페이지 제일/아래로 위로 옮김 (스크롤 가능)
+
+Alt + Ctrl [ / Alt + Ctrl ]
+ : Fold/unfold region
+
+Ctrl + K Ctrl [ / Ctrl + K Ctrl ]
+ : Fold/unfold all subregions
+
+Ctrl + K Ctrl + 0 / Ctrl + K Ctrl + J
+ : Fold/unfold all regions
+ 모든 region 접기/펴기
+
+Ctrl + K Ctrl + C
+ : Add line comment
+
+Ctrl + K Ctrl + U
+ : Remove line comment
+
+Ctrl + /
+ : Toggle line comment
+
+Shift + Alt + A
+ : Toggle block comment
+
+Alt + Z
+ : Toggle word wrap
+ 자동 줄 바꿈
+ 
+F11
+ : Toggle full screen
+
+
+
+
+
+[Multi-cursor and selection 다중 커서 및 다중 선택]
+
+Alt + Click
+ : Insert cursor
+ 다중 커서
+
+Alt + Ctrl + ↑/↓
+ : Insert cursor above/below
+ 커서 위/아래에 넣기
+
+Ctrl + U
+ : Undo last cursor operation
+ 이전 커서를 작동시킴
+
+Shift + Alt + I
+ : Insert cursor at end of each line selected
+ 각각 선택된(드래그한) 줄(들)의 마지막에 커서 넣기
+
+Ctrl + L
+ : Select current line
+ 현재 줄 선택
+
+Ctrl + Shift + L
+ : Select all occurrences of Find match
+ 일치하는 모든 항목 선택
+
+Ctrl + F2
+ : Change all occurrences
+ 모든 항목 변경
+
+Shift + Ctrl + ← / →
+ : Expand / shrink selection
+ 커서 다음에 나오는 단어 선택
+
+Ctrl + ← / →
+ : 커서 다음에 나오는 단어로 이동
+
+Shift + ← / →
+ : 커서 다음에 나오는 한 글자 선택
+
+Shift + Alt + drag mouse
+ : Column (box) selection
+ 다중 행 선택
+
+Shift + Alt + Ctrl + ↑ / ↓
+ : Column (box) selection up/down
+ 다중 행 선택 (위/아래) 한줄씩
+
+Shift + Alt + Ctrl + ← / →
+ : Column (box) selection left/right
+ 다중 행 선택 (좌/우) 한글자씩
+
+Shift + Alt + Ctrl + PgUp
+ : Column (box) selection page up
+ 다중 행 선택 (페이지 업)
+
+Shift + Alt + Ctrl + PgDn
+ : Column (box) selection page down
+ 다중 행 선택 (페이지 다운)
+
+
+
+
+[Search and replace 검색 및 재배열]
+
+Ctrl + F
+ : Find
+ 검색
+
+Ctrl + H
+ : Replace
+ 해당하는 모든 단어 변경
+
+F3 / Shift + F3
+ : Find next/previous
+ 해당 단어 선택 후 찾기 (후/전)
+
+Ctrl + Shift + L
+ : Select all occurrences of Find match
+ 현재 선택된 항목의 존재하는 모든 항목 선택
+
+Ctrl + D
+ : Add selection to next Find match
+ 일치하는 다음 항목'도' 선택
+
+Ctrl + K Ctrl + D
+ : Move last selection to next Find match
+ 일차하는 다음 항목'만' 선택 및 이동
+
+
+
+[Rich languages editing]
+
+Ctrl + Space
+ : Trigger suggestion
+ 트리거 제안
+
+Shift + Ctrl + Space
+ : Trigger parameter hints
+
+Shift + Alt + F
+ : Format document
+
+Ctrl + K Ctrl + F
+ : Format selection
+
+F12
+ : Go to Definition
+
+Alt + F12
+ : Peek Definition
+
+Ctrl + K + F12
+ : Open Definition to the side
+
+Ctrl + .
+ : Quick Fix
+
+Shift + F12
+ : Show References
+
+F2
+ : Rename Symbol
+ 이름 변경
+
+Ctrl + K Ctrl + X
+ : Trim trailing whitespace
+
+Ctrl + K M
+ : Change file language
+
+
+
+[Navigation 네비게이션]
+
+Ctrl + T 
+ : Show all Symbols
+
+Ctrl + G
+ : Go to Line...
+ 줄 이동
+
+Ctrl + P
+ : Go to File...
+ 파일 이동
+
+Shift + Ctrl + O
+ : Go to Symbol...
+
+Shift + Ctrl + M
+ : Show Problems panel
+
+F8 / Shift + F8
+ : Go to next/previous error or warning
+
+⌃Shift + Tab
+: Navigate editor group history
+
+⌃- / ⌃Shift +
+ : - Go back/forward
+
+⌃Shift + M
+ : Toggle Tab moves focus
+
+
+
+[Editor management 편집자 관리]
+
+Ctrl + W
+ : Close editor
+ 에디터 닫기
+
+Ctrl + K F
+ : Close folder
+ 폴더 닫기
+
+Ctrl + \
+ : Split editor
+ 에디터 나누기
+
+Ctrl + 1 / Ctrl + 2 / Ctrl + 3
+ : Focus into 1st, 2nd, 3rd editor group
+
+Ctrl + K + Ctrl + ← / Ctrl + K Ctrl + →
+ : Focus into previous/next editor group
+
+Ctrl + K + Shift + Ctrl + ← / Ctrl + K Shift + Ctrl + →
+ : Move editor left/right
+
+Ctrl + K + ← / Ctrl + K →
+ : Move active editor group
+
+
+
+
+[File management 파일 관리]
+
+Ctrl + N
+ : New File
+ 새파일
+
+Ctrl + O
+ : Open File...
+
+Ctrl + S
+ : Save
+ 저장
+
+Shift + Ctrl + S
+ : Save As...
+ 다른 이름으로 저장
+
+Alt + Ctrl + S
+ : Save All
+ 모두 저장
+
+Ctrl + W
+ : Close
+ 창 닫기
+
+Ctrl + K Ctrl + W
+ : Close All
+ 모두 닫기
+
+Shift + Ctrl + T
+ : Reopen closed editor
+ 에디터 다시 열기
+
+Ctrl + K Enter
+ : Keep preview mode editor open
+
+Ctrl + Tab / Ctrl + Shift + Tab
+ : Open next / previous
+ 다음 파일 / 이전 파일
+
+Ctrl + K P
+ : Copy path of active file
+
+Ctrl + K R
+ : Reveal active file in Finder
+
+Ctrl + K O
+ : Show active file in new window/instance
+
+
+
+
+[Display 디스플레이]
+
+F11
+ : Toggle full screen
+
+Alt + Ctrl + 0
+ : Toggle editor layout (horizontal/vertical)
+
+Ctrl + [+/-]
+ : Zoom in/out
+
+Ctrl + B
+ : Toggle Sidebar visibility
+
+Shift + Ctrl + E
+ : Show Explorer / Toggle focus
+
+Shift + Ctrl + F
+ : Show Search
+
+⌃Shift + G
+ : Show Source Control
+
+Shift + Ctrl + D
+ : Show Debug
+
+Shift + Ctrl + X
+ : Show Extensions
+
+Shift + Ctrl + H
+ : Replace in files
+
+Shift + Ctrl + J
+ : Toggle Search details
+
+Shift + Ctrl + U
+ : Show Output panel
+
+Shift + Ctrl + V
+ : Open Markdown preview
+
+Ctrl + K V
+ : Open Markdown preview to the side
+
+Ctrl + K Z
+ : Zen Mode (Esc Esc to exit)
+
+
+
+
+[Debug 디버그]
+
+F9
+ : Toggle breakpoint
+
+F5
+ : Start/Continue
+
+F11 / Shift + F11
+ : Step into/ out
+
+F10
+ : Step over
+
+Shift + F5
+ : Stop
+
+Ctrl + K Ctrl + I
+ : Show hover
+
+
+
+[Integrated terminal 통합적인 Terminal]
+
+Ctrl + `
+ : Show integrated terminal
+
+Ctrl + Shift + `
+ : Create new terminal
+
+Ctrl + C
+ : Copy selection
+
+Ctrl + ↑ / ↓
+ : Scroll up/down
+
+PgUp / PgDn
+ : Scroll page up/down
+
+Ctrl + Home / End
+ : Scroll to top/bottom
+
+
