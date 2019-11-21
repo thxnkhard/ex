@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      /* a[href] {
+        color: black;
+        text-decoration: none;
+        font-size: 100px;
+      } */
+      /* a 요소가 hover 상태일 때 */
+      a:hover {
+        color: white;
+        background-color: black;
+      }
+      a:link {
+        color: black;
+        text-decoration: none;
+        font-size: 100px;
+      }
+      a:visited {
+        color: violet;
+      }
+      a:active {
+        color: teal;
+      }
+      a:focus {
+        color: red;
+        background-color: yellow;
+      }
+      /* input 요소가 focus 상태일 때 */
+      input:hover {
+        -webkit-text-fill-color: red;
+        background-color: royalblue;
+      }
+      input:focus {
+        color: red;
+        background-color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="#">Hover me</a><br /><br />
+    <input type="text" placeholder="focus me" />
+  </body>
+</html>
